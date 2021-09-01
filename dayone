@@ -7,6 +7,23 @@ print("Hello World!\nHello World")
 
 print("Hello World" + " " + "Macbook M1")
 
-#input() function
+#input() function- will get
 Name=input("what is your name?")
 print("hello" + " " + Name)
+
+
+x=len(input("what is your name?"))
+print(x)
+
+#Variables Exercise
+
+a=input("a:")
+b=input("b:")
+
+print ("a is",b)
+print ("b is",a)
+
+#Variable_Naming
+
+n=input("what is your name?")
+length=len(n)
