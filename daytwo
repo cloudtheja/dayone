@@ -1,0 +1,24 @@
+#DataTypes
+
+#String
+
+Subscript- String[0]
+print("123" + "345")
+
+#Integer
+print(123 + 345)
+
+#Boolean
+#True or False
+
+name=len(input("name of the person?")
+new_name=str(name)
+print("name has" + new_name + "characters")
+
+
+two_digit_number = input("type two digit number?")
+
+tdn=int(two_digit_number[0])+int(two_digit_number[1])
+
+
+
